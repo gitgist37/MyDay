@@ -17,3 +17,11 @@ MORNING END
 6.00pm - Evening Walk
 
 NOON END
+
+7.00pm - Meet up with friends
+7.30pm - Booze
+8.30pm - Prepare Dinner
+9.30pm - Dinner
+11.00pm - Log Off
+
+UNEXPECTED DAY END
